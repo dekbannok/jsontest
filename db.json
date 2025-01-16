@@ -3,8 +3,8 @@
     { "id": 1, "image": "/images/test/img-test.jpg", "title": "COP x Singha Way - Workshop Merry christmas Flower Frame 1", "event_date": "30 ก.ย 67, 01 ต.ค 68", "event_time": "14:30 - 17:00 น." },
     { "id": 2, "image": "/images/test/img-test.jpg", "title": "COP x Singha Way - Workshop Merry christmas Flower Frame 2", "event_date": "30 ก.ย 67, 01 ต.ค 68", "event_time": "14:30 - 17:00 น." },
     { "id": 3, "image": "/images/test/img-test.jpg", "title": "COP x Singha Way - Workshop Merry christmas Flower Frame 3", "event_date": "30 ก.ย 67, 01 ต.ค 68", "event_time": "14:30 - 17:00 น." },
-    { "id": 3, "image": "/images/test/img-test.jpg", "title": "COP x Singha Way - Workshop Merry christmas Flower Frame 4", "event_date": "30 ก.ย 67, 01 ต.ค 68", "event_time": "14:30 - 17:00 น." },
-    { "id": 3, "image": "/images/test/img-test.jpg", "title": "COP x Singha Way - Workshop Merry christmas Flower Frame 5", "event_date": "30 ก.ย 67, 01 ต.ค 68", "event_time": "14:30 - 17:00 น." }
+    { "id": 4, "image": "/images/test/img-test.jpg", "title": "COP x Singha Way - Workshop Merry christmas Flower Frame 4", "event_date": "30 ก.ย 67, 01 ต.ค 68", "event_time": "14:30 - 17:00 น." },
+    { "id": 5, "image": "/images/test/img-test.jpg", "title": "COP x Singha Way - Workshop Merry christmas Flower Frame 5", "event_date": "30 ก.ย 67, 01 ต.ค 68", "event_time": "14:30 - 17:00 น." }
   ],
   "profile": {
     "name": "typicode"
