@@ -1,6 +1,8 @@
 {
   "posts": [
-    { "id": 1, "image": "","title": "COP x Singha Way - Workshop Merry christmas Flower Frame","event_date": "30 ก.ย 67, 01 ต.ค 68","event_time": "14:30 - 17:00 น."}
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
